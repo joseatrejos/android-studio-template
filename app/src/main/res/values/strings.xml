@@ -7,41 +7,33 @@
     <string name="mission_content">Hacer uso de las más altas tecnologías para satisfacer y potenciar las necesidades de nuestros clientes; brindando la mejor calidad a la hora de proporcionar nuestros servicios.</string>
     <string name="vision_title">Visión</string>
     <string name="vision_content">Ser líderes en innovación y diseño, ofreciendo la mejor experiencia de productos digitales, con el fin de ayudar a nuestros clientes a obtener el máximo rendimiento con nuestros productos.</string>
-    <string name="accept">Entendido</string>
+    <string name="accept">Ver más</string>
     <string name="values_title">Nuestros Valores</string>
     <string name="values_content">
-        Pasión por lo que hacemos\n\n
-        Inclusión y variedad de talento\n\n
-        Orientación a las personas\n\n
-        Colaboración\n\n
-        Innovación\n\n
-        Superación continua\n\n
-        Claridad en la comunicación organizacional\n\n
-        Integridad\n\n
-        Orientación al cliente\n\n
-        Empatía\n\n
-        Calidad\n\n
-        Éxito
+        &#8226; Pasión por lo que hacemos\n\n
+        &#8226; Inclusión y variedad de talento\n\n
+        &#8226; Orientación a las personas\n\n
+        &#8226; Colaboración\n\n
+        &#8226; Innovación\n\n
+        &#8226; Superación continua\n\n
+        &#8226; Claridad en la comunicación organizacional\n\n
+        &#8226; Integridad\n\n
+        &#8226; Orientación al cliente\n\n
+        &#8226; Empatía\n\n
+        &#8226; Calidad\n\n
+        &#8226; Éxito
     </string>
     <string name="general_objectives">Objetivos Generales</string>
     <string name="general_objectives_content">
-        1. \n\n
-        2. \n\n
-        3. \n\n
-        4. \n\n
-        5. \n\n
-        6. \n\n
-        7.
+        De aquí a 5 años, la empresa habrá producido un videojuego AAA, así como una serie de recorridos virtuales y uno o dos videojuegos
+        desarrollados por nosotros. De esta manera, el índice de facturación aumentará hasta en un 300% y la empresa se establecerá sólidamente
+        en el mercado.
     </string>
     <string name="specific_objectives">Objetivos Específicos</string>
     <string name="specific_objectives_content">
-        1. \n\n
-        2. \n\n
-        3. \n\n
-        4. \n\n
-        5. \n\n
-        6. \n\n
-        7.
+        1. Desarrollar videojuegos, aplicaciones móviles, sitios web y bases de datos.\n\n
+        2. Producir publicidad, cortometrajes, y ofrecer análisis de consultorías. \n\n
+        3. Generar contenido 3D como recorridos virtuales, modelos, animaciones, esculpido y rigging 3D.
     </string>
     <string name="back">Volver</string>
 </resources>
